@@ -1,1 +1,3 @@
-alert('Hola mundo con js');
+const click=()=>{
+    alert('CLICK DEL BOTON');
+}
